@@ -6,3 +6,5 @@ We will be making edits to this file as well as creating new ones, in the hopes 
 Baguettes are my favorite type of bread. I had one as a snack with olive oil. It was yummy!
 
 I didn't have a baguette today.
+
+New Changes.
